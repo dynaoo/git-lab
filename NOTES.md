@@ -1,1 +1,2 @@
 Classification is a machine learning task where a model assigns each input to one of several predefined categories. 
+I kept the threshold at 0.4 because in an IDS a missed attack is worse than a false alarm, since an undetected intrusion can cause real damage while a false alarm only costs analyst time.
